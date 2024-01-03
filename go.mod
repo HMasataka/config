@@ -1,0 +1,5 @@
+module github.com/HMasataka/config
+
+go 1.21.4
+
+require github.com/caarlos0/env/v9 v9.0.0
